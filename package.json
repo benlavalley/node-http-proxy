@@ -15,7 +15,7 @@
     "eventemitter3": "^4.0.0",
     "follow-redirects": "^1.7.0",
     "requires-port": "^1.0.0",
-    "ws": "^7.1.2"
+    "ws": "^0.8.1"
   },
   "devDependencies": {
     "async": "^2.0.0",
